@@ -1,9 +1,10 @@
 import "./App.css";
+import Navbar from "./Pages/Shared/Navbar";
 
 function App() {
   return (
     <div>
-      <h1>hello woarld</h1>
+      <Navbar></Navbar>
     </div>
   );
 }
